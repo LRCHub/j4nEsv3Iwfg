@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "3XL",
+  "base_artist": "Number_i",
+  "createdAt": "2026-02-19T07:31:42.216628Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "3XL",
+      "artist": "Number_i",
+      "has_synced": false,
+      "path": "select/pl_01_3XL_Number_i.txt"
+    }
+  ]
+}
